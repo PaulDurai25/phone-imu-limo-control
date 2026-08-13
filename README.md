@@ -1,5 +1,9 @@
 # Phone IMU Based Orientation Control of AgileX LIMO Pro
 
+![LIMO Pro Phone IMU Control](media/phone_limo_demo.gif)
+
+# Phone IMU Based Orientation Control of AgileX LIMO Pro
+
 A ROS 2 based implementation for controlling the orientation of an AgileX LIMO Pro mobile robot using the orientation of an Android smartphone.
 
 ## Overview
