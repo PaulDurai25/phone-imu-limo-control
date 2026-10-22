@@ -13,7 +13,7 @@ Terminal 2
 
 	ros2 run phone_imu phone_imu_node
 	
-Terminal 2
+Terminal 3
 
 	source /opt/ros/foxy/setup.bash
 	source ~/limo_ros2_ws/install/setup.bash
